@@ -2,7 +2,7 @@
 
 A set of standalone Python tools dedicated to the numerical evaluation and modeling of average photon escape distances and trajectories within thin galactic disks and elliptical stellar systems.
 
-Manuscript Reference: [Zenodo DOI](https://doi.org/10.5281/zenodo.22011957)
+Manuscript Reference: [Zenodo DOI](https://doi.org/10.5281/zenodo.22009753)
 
 Website Reference: [andreabrussi.it](https://andreabrussi.it)  
 Contact: info@andreabrussi.it  - [ORCID](https://orcid.org/0009-0000-3924-1563)
